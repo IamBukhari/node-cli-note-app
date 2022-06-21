@@ -4,10 +4,16 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node app"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "node-cli-app",
+    "cli",
+    "node",
+    "filesystem",
+    "beginers"
+  ],
+  "author": "asad bukhari",
   "license": "ISC",
   "dependencies": {
     "chalk": "^2.4.1",
