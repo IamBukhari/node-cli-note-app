@@ -1,0 +1,8 @@
+[
+  { "title": "buy", "body": "pants" },
+  { "title": "manufacture", "body": "pants" },
+  {
+    "title": "List all users and save in DB",
+    "body": "User data migration form lam server to DynamoDb Users table"
+  }
+]
